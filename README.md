@@ -4,5 +4,6 @@ clicknator.com.br
 - Armazenar dados
 - Gerenciar Pastas
 - Salvar Dados ( apps, baixados, arquivos armazenados.)
- 
- 
+
+## Wiki
+- Documentação completa do projeto: [WIKI.md](./WIKI.md)
