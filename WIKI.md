@@ -125,7 +125,7 @@ Sites com arquivo presente:
 - `gocode` → `sites/GoCode.html`
 
 Referência sem arquivo local correspondente:
-- `googlar` → `../sites/googlar.html` (não existe)
+- `googlar` → valor atual em `sites.json`: `../sites/googlar.html` (não existe no repositório)
 
 ---
 
